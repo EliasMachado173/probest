@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="ProBest">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/ProBest.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
